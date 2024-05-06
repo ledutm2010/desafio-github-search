@@ -2,4 +2,6 @@
     <string name="app_name">GitHubSearch</string>
     <string name="nome_usuario">Nome do usuário</string>
     <string name="confirmar">Confirmar</string>
+    <string name="nome_salvo_shared_preferences">nome do usuario salvo</string>
+    <string name="message_erro">Algo deu errado, por favor, tente novamente mais tarde.</string>
 </resources>

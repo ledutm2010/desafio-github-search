@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/edutm/Android Projects/Nova pasta/desafio-github-search/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/edutm/Android Projects/Nova pasta/desafio-github-search/app/src/main/res/layout/repository_item.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/edutm/Android Projects/Nova pasta/desafio-github-search/app/src/main/res/xml/network_security_config.xml" value="0.10833333333333334" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="app/src/main/res/layout/repository_item.xml" value="0.3203125" />
       </map>
